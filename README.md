@@ -1,20 +1,20 @@
-# case-studies · 商业竞赛案例库
+# case-studies · Business Competition Case Library
 
+> **中文版本 → [README.zh-CN.md](./README.zh-CN.md)**
 
-## 案例索引
+## Case index
 
-| # | 项目 | 赛事 | 成绩 | 我的角色 | 一句话 |
-|---|------|------|------|---------|--------|
-| 01 | [关节海绵](./01-关节海绵/CASE.md) | 科创竞赛 | 省赛种子项目 | 财务组（独立负责） | 从零搭建 6-Sheet 三年财务模型 + 医保测算（三类患者支出降 33%）成路演王牌 |
-| 02 | [ACCA JHC](./02-ACCA-JHC/CASE.md) | ACCA 就业力大比拼 | 华南区复赛 | 队长 | 用审计思维做商业分析：五层交叉验证体系 + 8 列数据审计底稿、7 个独立数据源 |
-| 03 | [岭南 LUBCC](./03-岭南LUBCC/CASE.md) | 岭南大学商业案例分析大赛 | 三等奖（第 6 名） | 队员（IP 设计 + 技术原型） | 香港警方 APP 推广：小熊 IP 策略 + 3 项功能改进的 HTML 原型 |
+| # | Project | Competition | Result | My role | In one line |
+|---|---------|-------------|--------|---------|-------------|
+| 01 | [Joint Sponge](./01-关节海绵/CASE.md) | Sci-innovation competition | Provincial seed project | Finance lead (sole owner) | Built a 6-sheet 3-year financial model from zero; medical-insurance cost model (-33% for all patient tiers) became the roadshow's trump card |
+| 02 | [ACCA JHC](./02-ACCA-JHC/CASE.md) | ACCA Job Hunting Competition | South China regional semi-final | Team captain | Audit-grade business analysis: 5-layer cross-validation system + 8-column audit working papers, 7 independent data sources |
+| 03 | [Lingnan LUBCC](./03-岭南LUBCC/CASE.md) | Lingnan University Business Case Competition | 3rd Prize (6th) | Team member (IP design + tech prototype) | Hong Kong Police app promotion: mascot IP strategy + interactive prototype with 3 UX fixes ([live demo](https://yyj710.github.io/HKPFapp/)) |
 
-**最新进展**：粤港澳会计知识竞赛（2026.10）广东省前 5，进入决赛——赛后将补充复盘。
+**Latest**: Guangdong-Hong Kong-Macao Accounting Knowledge Competition (2026.10) — Provincial Top 5, advanced to finals. Retrospective to be added after the final.
 
+## Related repos
 
-
-## 相关仓库
-
-- [qianhuoduan](https://github.com/yyj710/qianhuoduan) — 全栈 Web 平台（已上线）
-- [HKPFapp](https://github.com/yyj710/HKPFapp) — 岭南赛技术原型代码
-- [life-pipeline](https://github.com/yyj710/life-pipeline) — 个人自动化流水线
+- [qianhuoduan](https://github.com/yyj710/qianhuoduan) — full-stack web platform (live)
+- [HKPFapp](https://github.com/yyj710/HKPFapp) — Lingnan competition prototype code
+- [life-pipeline](https://github.com/yyj710/life-pipeline) — personal automation pipeline
+- [about-me](https://github.com/yyj710/about-me) — resume & verified award certificates
